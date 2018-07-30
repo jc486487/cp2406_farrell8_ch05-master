@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercises_week04/Exercises_week04.iml" filepath="$PROJECT_DIR$/Exercises_week04/Exercises_week04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cp2406_farrell8_ch05-master.iml" filepath="$PROJECT_DIR$/.idea/cp2406_farrell8_ch05-master.iml" />
     </modules>
   </component>
