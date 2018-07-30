@@ -1,11 +1,11 @@
-// DebugFive3.java
+// FixDebugFive3.java
 // Determines whether item number on order is valid
 // Over 999 invalid
 // Less than 111 Invalid
 // Valid and less than 500 - Automotive Department
 // Valid and 500 or higher Housewares Department
 import java.util.Scanner;
-public class DebugFive3
+public class FixDebugFive3
 {
    public static void main (String args[])
    {

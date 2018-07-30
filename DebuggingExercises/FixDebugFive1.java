@@ -4,7 +4,7 @@
 // Grilled cheese and fish are $1.99
 // Fries are 89 cents
 import javax.swing.*;
-public class DebugFive1
+public class FixDebugFive1
 {
    public static void main(String args[]) throws Exception
    {
